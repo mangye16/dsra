@@ -1,0 +1,11 @@
+The rank is achieved by forward query and backward requery. While the "**_rank_a_b" denotes the forward query ranking results and the  "**_rank_b_b" denotes the backward requery ranking results. Specially:
+
+The "kissme_rank_**" is achieved with the method in [1];
+The "sdc_rank_**" is achieved with the method in [2];
+The "sdalf_rank_**" is achieved with the method in [3];
+The "ldfv_rank_**" is achieved with the method in [4];
+
+[1] Kostinger M, Hirzer M, Wohlhart P, et al. Large scale metric learning from equivalence constraints. Computer Vision and Pattern Recognition (CVPR),2012.
+[2] Zhao R, Ouyang W, Wang X. Unsupervised salience learning for person re-identification. Computer Vision and Pattern Recognition (CVPR), 2013 .
+[3] Farenzena M, Bazzani L, Perina A, et al. Person re-identification by symmetry-driven accumulation of local features. Computer Vision and Pattern Recognition (CVPR), 2010.
+[4] Ma B, Su Y, Jurie F. Local descriptors encoded by fisher vectors for person re-identification. European Conference on Computer Vision, Workshops and Demonstrations (ECCV), 2012. 
